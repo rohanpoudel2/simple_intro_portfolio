@@ -14,7 +14,7 @@ export default function Hero({ name, title, location, backgroundImage, lightImag
     const { resolvedTheme } = useTheme();
     const bg = resolvedTheme === 'light' && lightImage ? lightImage : backgroundImage;
     return (
-        <div className="relative h-[45vh] w-screen ml-[calc(-50vw+50%)] mb-12">
+        <div className="relative h-[45vh] w-full overflow-hidden mb-12">
             <div
                 className="w-full h-full bg-cover bg-center bg-no-repeat"
                 style={{
