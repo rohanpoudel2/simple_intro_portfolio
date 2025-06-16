@@ -1,0 +1,15 @@
+export const skills = [
+    'Ruby on Rails',
+    'React & Next.js',
+    'React Native',
+    'Node.js',
+    'Python',
+    'TypeScript',
+    'JavaScript',
+    'PostgreSQL',
+    'AWS',
+    'Docker',
+    'Git',
+    'Agile',
+    'CI/CD',
+]; 
