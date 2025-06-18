@@ -3,8 +3,13 @@ export const projects = [
         title: 'TriGuard',
         description: 'Research paper on testing AI Model Safety with Attribution Entropy, Verification, and Drift.',
         tech: ['Python', 'PyTorch', 'auto_LiRPA', 'TorchVision'],
-        status: 'In Progress' as const,
-        links: []
+        status: 'Completed' as const,
+        links: [
+            {
+                name: 'arxiv',
+                url: 'https://arxiv.org/abs/2506.14217'
+            }
+        ]
     },
     {
         title: 'CommuteMate (GoatHacks)',
