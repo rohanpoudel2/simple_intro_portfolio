@@ -22,7 +22,7 @@ export default function About({ content, photo, photoAlt = "Profile photo" }: Ab
                     ))}
                     <div className="pt-4">
                         <a
-                            href="/resume_rohan_poudel.pdf"
+                            href="/Rohan_Poudel_Resume.pdf"
                             target="_blank"
                             rel="noopener noreferrer"
                             className={`inline-flex items-center gap-2 font-mono text-sm transition-colors duration-200 border-b ${isLight ? 'text-blue-700 border-blue-300 hover:text-blue-900 hover:border-blue-900' : 'text-gray-600 dark:text-gray-400 hover:text-gray-200 border-gray-300 dark:border-gray-600 hover:border-gray-200 dark:hover:border-gray-200'}`}
