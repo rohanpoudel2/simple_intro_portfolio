@@ -1,5 +1,5 @@
 export const aboutContent = [
-    "I'm a software engineer currently pursuing a Master's in Computer Science.",
-    "I mostly work on full-stack development and some data engineering.",
-    "I'm currently looking for an internship/job in integrating AI/ML into software engineering."
+    "I'm a software engineer from West Haven, Connecticut, USA, currently pursuing a master's degree in computer science.",
+    "I primarily work in full-stack development and data engineering.",
+    "I am currently seeking software engineering jobs or internships in the US."
 ];
